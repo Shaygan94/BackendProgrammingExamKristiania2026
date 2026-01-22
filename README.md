@@ -25,4 +25,4 @@ A complete Postman collection is available in the src folder for testing all API
 
 **Documentation:**
 Exam Description: 
-Project Report: Our detailed solution and implementation report is available here: PGR209ExamReport.pdf[PGR209ExamReport.pdf](https://github.com/user-attachments/files/24797498/PGR209ExamReport.pdf)
+Project Report: Our detailed solution and implementation report is available here: [PGR209ExamReport.pdf](https://github.com/user-attachments/files/24797498/PGR209ExamReport.pdf)
